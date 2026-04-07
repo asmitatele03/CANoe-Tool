@@ -6,8 +6,6 @@ CANoe is a software tool developed by Vector Informatik for developing, testing,
 
 ⚙️ Key Features
 
-
-
 * Simulation of ECU communication
 * Real-time CAN message monitoring
 * CAPL scripting for logic implementation
