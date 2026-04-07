@@ -37,6 +37,3 @@
 
 CANoe is an industry-standard tool used to simulate and test communication between electronic systems, making it essential for automotive and embedded engineering.
 
----
-
-If you want, I can make it **1-line version for resume** or **slightly stronger for recruiters** 👍
