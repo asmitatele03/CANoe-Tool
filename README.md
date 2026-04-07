@@ -1,8 +1,5 @@
 🚗 CANoe Tool
 
-
-
-
 📌 What is CANoe?
 
 CANoe is a software tool developed by Vector Informatik for developing, testing, simulating, and analyzing communication in embedded systems and automotive networks.
