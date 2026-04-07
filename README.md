@@ -4,9 +4,7 @@
 
 **CANoe** is a software tool developed by Vector Informatik for developing, testing, simulating, and analyzing communication in embedded systems and automotive networks.
 
----
-
-## ⚙️ Key Features
+⚙️ Key Features
 
 * Simulation of ECU communication
 * Real-time CAN message monitoring
@@ -14,9 +12,7 @@
 * Panel design (switches, LEDs, indicators)
 * Network analysis and debugging
 
----
-
-## 🔌 Supported Protocols
+🔌 Supported Protocols
 
 * CAN
 * LIN
