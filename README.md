@@ -27,9 +27,7 @@
 * Embedded systems testing
 * Network diagnostics
 
----
-
-## 💡 Summary
+💡 Summary
 
 CANoe is an industry-standard tool used to simulate and test communication between electronic systems, making it essential for automotive and embedded engineering.
 
